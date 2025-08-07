@@ -1,0 +1,6 @@
+Patient_ID,Test_Name,Test_Result,Result_Date
+001,Glucose,5.8,2024-11-01
+002,Cholesterol,7.1,
+003,Glucose,NaN,2024-11-02
+004,Iron,14.2,2024-11-03
+005,Cholesterol,6.5,2024-11-01
