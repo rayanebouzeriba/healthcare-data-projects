@@ -12,3 +12,6 @@ This project simulates a junior lab data associate role. It cleans and prepares 
 - `sample_lab_data.csv`: Sample raw data
 - `lab_data_cleaner.py`: Python script to clean the data
 - `cleaned_lab_data.csv`: Output from the cleaning script
+
+# healthcare-data-projects
+917ee6c2ebbc6e2b4a245efc3a3f8a65b51d5fd9
