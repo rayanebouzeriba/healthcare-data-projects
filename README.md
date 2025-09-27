@@ -15,3 +15,10 @@ This project simulates a junior lab data associate role. It cleans and prepares 
 
 # healthcare-data-projects
 917ee6c2ebbc6e2b4a245efc3a3f8a65b51d5fd9
+---
+
+## 📊 Clinical Trial Dashboard – Python & Streamlit
+
+This dashboard compares treatment vs placebo groups in a clinical trial. It visualizes response rates and side effects using pandas, matplotlib, and Streamlit.
+
+📁 [View Project Folder](clinical-trial-dashboard)
